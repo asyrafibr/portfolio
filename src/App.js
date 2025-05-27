@@ -43,7 +43,7 @@ const App = () => {
           <Tab.Pane eventKey="summary">
             <Section title="Professional Summary">
               <p className="lead">
-                Results-driven Front-End Developer with 3+ years of experience in web and mobile
+                Results-driven Front-End Developer with 5+ years of experience in web and mobile
                 development using React.js and React Native. Skilled in building responsive interfaces,
                 integrating APIs, and collaborating in Agile environments.
               </p>
